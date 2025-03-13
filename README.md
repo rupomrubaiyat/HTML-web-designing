@@ -1,2 +1,2 @@
-<h1> HTML for web designing</h1>
+<h1> HTML language for web designing</h1>
 <p> </p>
