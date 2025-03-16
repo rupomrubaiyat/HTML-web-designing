@@ -5,5 +5,5 @@ this also gonna help u to revise all the tags used in html language before your 
 <h4>the previouscode.html file is ready to download. but i am still working on the ultimatecode.html</h4>
 ## Practice HTML lamguage ⌨️ <br>
 Here U will find my practices on HTML 
-[Sample practice file output](https://postimg.cc/d7gcLXTk)
+![Sample practice file output](https://postimg.cc/d7gcLXTk)
 
