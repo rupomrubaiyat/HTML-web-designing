@@ -112,13 +112,14 @@ Tag is of two kinds:-
         
         <!--Table adding = table tag-->
         <!--td = table data
-             tr= table row-->
-        <table border="1" cellspacing="0" style="color: red;font-family: fantasy;">
+             tr= table row
+             th= table heading < to bold the table headings-->
+        <table border="1" cellspacing="0" style="color: skyblue;font-family: fantasy;">
             <tr>
-                <td>Name</td>
-                <td>Roll</td>
-                <td>marks</td>
-                <td>book</td>
+                <th>Name</th>
+                <th>Roll</th>
+                <th>marks</th>
+                <th>book</th>
             </tr>
             <tr>
                 <td>Abid</td>
@@ -134,8 +135,43 @@ Tag is of two kinds:-
             </tr>
         </table>
             
-    <!--colspan and rowspan-->
+        <!--colspan and rowspan-->
+        <table cellspacing="0" border="1">
+            <TR>
+                <td>student name</td>
+                <td colspan="3">Compulsary</td>
+                <td>opt</td>
+            </TR>
+            <tr>
+                <td rowspan="3">harru</td>
+                <td rowspan="3"> bangla</td>
+                <td rowspan="3">eng</td>
+                <td rowspan="3">ict</td>
+                <td>physics</td>
+            </tr>
     
+            <tr><td>math</td></tr>
+            <tr><td>bio</td></tr>
+        </table>
+        <!--example 2-->
+        <table cellspacing="0" border="1">
+            <tr>
+                <td>Id no</td>
+                <td>Emp no</td>
+                <td>Salary</td>
+            </tr>
+            <tr>
+                <td>1001</td>
+                <td>Nafis</td>
+                <td rowspan="2">50000</td>
+            </tr>
+            <tr>
+                <td>1005</td>
+                <td>Sajal</td>
+            </tr>
+        </table>
+  
+
 
 
 
