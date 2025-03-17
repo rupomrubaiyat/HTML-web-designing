@@ -1,6 +1,6 @@
  # HTML language for web designing 🚀🔥   
 I have tried my best to make a collection of all tags included in **HSC EXAM** 
-## Sections of this respository-
+## Sections of this repository-
  - Practice HTML language ---Here u will get practices
  - the_Ultimate_Code--- ultimatecode.html (It's revision material)
 <!--
@@ -15,9 +15,9 @@ this also gonna help u to revise all the tags used in html language before your 
  
 [![Screenshot-2025-03-16-102115.jpg](https://i.postimg.cc/nz2kpBtx/Screenshot-2025-03-16-102115.jpg)](https://postimg.cc/DJWscWZp)
  [![Screenshot-2025-03-16-102100.jpg](https://i.postimg.cc/k5xsYL1B/Screenshot-2025-03-16-102100.jpg)](https://postimg.cc/FfH07CQ4)
- 
+ <!--
  > [!Caution]
-> I am still working on it. The file is not fully ready.
+> I am still working on it. The file is not fully ready.-->
  
 - ## Practice HTML language 🔥
 Here U will find my practices on HTML  
