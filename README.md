@@ -9,7 +9,7 @@ this also gonna help u to revise all the tags used in html language before your 
 <h3>just download the ultimatecode.html file when i am done with all the tags.then enjoys my code through vs code and also get output from browser</h3><br>
 --><br>
 
-### The Ultimate Code 🔥🔥🔥
+- ### The Ultimate Code 🔥🔥🔥
 > [!TIP]
 > <i> I have used a lot of comment tag in the code . That's a booster for ur revision </i> 
  
@@ -19,7 +19,7 @@ this also gonna help u to revise all the tags used in html language before your 
  > [!Caution]
 > I am still working on it. The file is not fully ready.
  
-## Practice HTML language 🔥
+- ## Practice HTML language 🔥
 Here U will find my practices on HTML  
 [![Screenshot-2025-03-16-093855.png](https://i.postimg.cc/DZwvY3vg/Screenshot-2025-03-16-093855.png)](https://postimg.cc/d7gcLXTk)
 
