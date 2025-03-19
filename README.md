@@ -24,4 +24,4 @@ Here U will find my practices on HTML
 - ### practice 1 (CW and HW)
 [![Screenshot-2025-03-16-093855.png](https://i.postimg.cc/DZwvY3vg/Screenshot-2025-03-16-093855.png)](https://postimg.cc/d7gcLXTk)
 - ### practice 2
-<img src="https://i.postimg.cc/7P0B8sBR/image.png">
+[![image.png](https://i.postimg.cc/bYg65dY5/image.png)](https://postimg.cc/G9BJ8LyP)
