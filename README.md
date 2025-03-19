@@ -22,4 +22,4 @@ this also gonna help u to revise all the tags used in html language before your 
 - ## Practice HTML language 🔥
 Here U will find my practices on HTML  
 [![Screenshot-2025-03-16-093855.png](https://i.postimg.cc/DZwvY3vg/Screenshot-2025-03-16-093855.png)](https://postimg.cc/d7gcLXTk)
-
+<img src="https://i.postimg.cc/7P0B8sBR/image.png">
